@@ -42,6 +42,19 @@ in the left collection tree. Nothing more.
 This is a personal, self-use add-on for learning purposes only. It comes with
 **no guarantee of stability, updates, or support**. Use at your own risk.
 
+## AI 声明
+
+本项目（含全部代码、测试、打包脚本与文档）**完全由 AI 完成，未经人工审查与维护**：
+
+- AI 助手：WorkBuddy AI（底层模型：step-5-preview）
+- 完成日期：2026-10-19
+
+This project (all code, tests, packaging scripts, and documentation) was
+**generated entirely by AI, without human review**:
+
+- AI assistant: WorkBuddy AI (model: step-5-preview)
+- Date: 2026-10-19
+
 ## 开发说明
 
 - `bootstrap.js` — 全部逻辑（打补丁、计数、缓存、通知刷新、卸载还原）
