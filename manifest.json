@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Collection Count",
+  "version": "1.0.2",
+  "description": "在左侧分类树（文件夹）名称旁显示条目数量。Shows the item count next to each collection in the collection tree.",
+  "author": "WorkBuddy",
+  "homepage_url": "https://www.zotero.org/",
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png"
+  },
+  "applications": {
+    "zotero": {
+      "id": "collection-count@workbuddy.local",
+      "update_url": "https://www.zotero.org/",
+      "strict_min_version": "10.0",
+      "strict_max_version": "11.*"
+    }
+  }
+}
